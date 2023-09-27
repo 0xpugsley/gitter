@@ -1,0 +1,4 @@
+(executable
+ (public_name gitter)
+ (name main)
+ (libraries gitter unix))
